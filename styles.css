@@ -10,6 +10,42 @@ body {
 #title {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: white;
+}
+#header p {
+    color: whitesmoke;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#image {
+    max-width: 100%;
+    width: 650px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 15px;
+    border: 10px solid whitesmoke;
+    
+}
+
+figcaption {
+
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#tribute-info {
+    font-family: Arial, Helvetica, sans-serif
+}
+ul {
+    background-color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+    
+}
 li {
     line-height: 1.3em;
     margin-bottom: 15px;
