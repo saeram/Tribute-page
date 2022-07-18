@@ -1,0 +1,19 @@
+body {
+    background-color: #ebf7f2;
+    text-align: center;
+    
+}
+#header {
+    background-color: #81968d;
+    padding: 10px;
+}
+#title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+li {
+    line-height: 1.3em;
+    margin-bottom: 15px;
+    text-align: justify;
+    list-style-type: circle;
+
+}
